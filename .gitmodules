@@ -6,4 +6,4 @@
 	url = git://github.com/github/expecta.git
 [submodule "external/xcconfigs"]
 	path = external/xcconfigs
-	url = https://github.com/jspahrsummers/xcconfigs.git
+	url = git@github.com:mbillemont/xcconfigs.git
